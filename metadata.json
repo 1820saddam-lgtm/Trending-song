@@ -1,0 +1,8 @@
+{
+  "name": "Remix TrendWave",
+  "description": "Trending Music \u0026 Video Streaming App featuring viral shorts, music videos, regional music, and smart playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
